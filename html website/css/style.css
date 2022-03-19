@@ -1,0 +1,58 @@
+
+
+html {background-color:black;}
+
+
+
+h1 {text-align:center;
+font-size:90px;
+color:rgb(76, 0, 255);
+}
+
+
+p {text-align:center;
+font-size:45px;
+
+;
+color: rgb(117, 66, 245)}
+
+h2 {color:rgb(167, 130, 255);
+font-size:35px;
+}
+
+u {color:rgb(93, 107, 232);
+;}
+
+
+
+div {color:rgb(5, 126, 240);}
+
+#luxury {
+    font-size:35px;
+	color:rgb(234, 0, 255);
+	background-color:black;
+	border-color:black;
+
+
+   padding:5px;
+   }
+#sports {
+font-size:35px;
+color:rgb(230, 0, 0);
+background-color:black;
+border-color:black;
+}
+
+#super {font-size:35px;
+color:rgb(17, 255, 0);
+background-color:black;
+border-color:black;}
+
+
+#me {font-size:15px;
+ color: gray ;
+text-align: center;}
+
+#idk {font-size:30px;}
+
+#pro {color:green;}

@@ -1,0 +1,62 @@
+*{
+	background-color:rgb(0,0,128);
+	margin:0;
+	padding:0;
+
+}
+
+h1 {text-align: center;
+font-size:80px;
+font-style:oblique;
+position:sticky;
+top:0px;
+border-style:solid;
+border-color:rgb(204,190,180); ;
+background-color:rgb(204,190,180);
+}
+
+
+#mer {width:811;
+height:456;}
+
+h2 {font-size:100px;
+color:rgb(0, 17, 255);
+border-style:solid;
+border-color:rgb(13, 44, 112);
+background:rgb(13, 44, 112);
+position:sticky;
+top:0px;}
+
+
+
+h3 {font-size:50px;
+color: rgb(5, 9, 18);}
+
+#price{font-size:40px;
+color:rgb(255, 20, 95);
+font-style:!important;
+}
+
+
+#engine{
+font-size:40px;color:rgb(0, 179, 255);font-family:sans-serif;}
+
+#body {
+	font-size:40px;
+color: rgb(77, 255, 0);
+font-family:sans-serif;}
+
+#orgin{font-size:40px;
+	color:rgb(246, 255, 0);
+	font-family: sans-serif;
+}
+hr {height:5px;
+background-color:black;}
+
+u {color:rgb(204,190,180);}
+
+
+
+
+
+
